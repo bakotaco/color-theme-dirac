@@ -38,12 +38,12 @@ inspired by color-theme-galois."
      (bold-italic ((t (:italic t :bold t))))
 
      (font-lock-constant-face ((t (:foreground "#C17DF1"))))
-     (font-lock-comment-face ((t (:italic t :foreground "dark slate blue"))))
+     (font-lock-comment-face ((t (:foreground "dark slate blue"))))
      (font-lock-keyword-face ((t (:foreground "#F14D4F"))))
-     (font-lock-preprocessor-face ((t (:italic t :foreground "HotPink"))))
+     (font-lock-preprocessor-face ((t (:foreground "HotPink"))))
      (font-lock-string-face ((t (:foreground "#92E683"))))
      (font-lock-variable-name-face ((t (:foreground "#93AAF2"))))
-     (font-lock-function-name-face ((t (:italic t :foreground "#FFB774"))))
+     (font-lock-function-name-face ((t (:foreground "#FFB774"))))
      (font-lock-type-face ((t (:foreground "#FFB774"))))
      (font-lock-warning-face ((t (:bold t :foreground "blue"))))
 
